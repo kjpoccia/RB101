@@ -1,0 +1,8 @@
+welcome: "Welcome to the Mortgage Calculator! Please enter your name:"
+greeting: "Hey there, %{name}"
+loan_amount: "Please enter the loan amount"
+apr: "Please enter the APR as a percentage (so 5 for 5%)"
+loan_duration: "Please enter the loan duration in years"
+invalid_entry: "That doesn't look quite right"
+go_again: "Would you like to perform another calculation? Y/N"
+goodbye: "Thanks for using the Mortgage Calculator! Buh bye"
